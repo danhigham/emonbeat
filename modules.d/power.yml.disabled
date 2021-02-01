@@ -1,0 +1,9 @@
+# Module: power
+# Docs: https://www.elastic.co/guide/en/beats/emonbeat/master/emonbeat-module-power.html
+
+- module: power
+  metricsets: ["consumption"]
+  enabled: false
+  period: 10s
+  hosts: ["localhost"]
+

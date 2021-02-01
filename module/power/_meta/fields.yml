@@ -1,0 +1,10 @@
+- key: power
+  title: "power"
+  release: beta
+  description: >
+    power module
+  fields:
+    - name: power
+      type: group
+      description: >
+      fields:

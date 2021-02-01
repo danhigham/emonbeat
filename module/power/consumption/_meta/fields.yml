@@ -1,0 +1,10 @@
+- name: consumption
+  type: group
+  release: beta
+  description: >
+    consumption
+  fields:
+    - name: example
+      type: keyword
+      description: >
+        Example field

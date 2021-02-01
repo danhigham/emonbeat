@@ -1,0 +1,1 @@
+This is the consumption metricset of the module power.

@@ -33,6 +33,7 @@ require (
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/gophercloud/gophercloud v0.1.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
+	github.com/jacobsa/go-serial v0.0.0-20180131005756-15cf729a72d4
 	github.com/josephspurrier/goversioninfo v1.2.0 // indirect
 	github.com/magefile/mage v1.11.0
 	github.com/mitchellh/gox v1.0.1
@@ -42,6 +43,7 @@ require (
 	github.com/prometheus/procfs v0.3.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	github.com/reviewdog/reviewdog v0.11.0
+	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	github.com/tsg/go-daemon v0.0.0-20200207173439-e704b93fd89b
 	go.elastic.co/apm v1.11.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
